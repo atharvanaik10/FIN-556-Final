@@ -58,7 +58,7 @@ Key metrics for evaluating the strategy include:
 ### Cumulative Profit and Loss (PnL)
 Tracks the overall profitability of the strategy over time.
 
-![Cumulative PnL over Time]attachment:<img width="773" alt="image" src="https://github.com/user-attachments/assets/2b5355e6-b6cb-4429-8966-6ebf7dea22f9" />
+Cumulative PnL over Time:<img width="773" alt="image" src="https://github.com/user-attachments/assets/2b5355e6-b6cb-4429-8966-6ebf7dea22f9" />
 
 
 ### Order Frequency
@@ -70,7 +70,7 @@ Analyzes trading activity across different times of day.
 ### Trade Execution Analysis
 Compares trade prices with VWAP and Bollinger Bands to evaluate adherence to trading rules.
 
-![Trade Prices vs. Bollinger Bands]<img width="733" alt="image" src="https://github.com/user-attachments/assets/1a508694-4f8c-45a1-8391-017fe7358450" />
+Trade Prices vs. Bollinger Bands:<img width="733" alt="image" src="https://github.com/user-attachments/assets/1a508694-4f8c-45a1-8391-017fe7358450" />
 
 
 ---
