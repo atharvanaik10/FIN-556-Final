@@ -91,7 +91,7 @@ This project implements a high-frequency trading (HFT) strategy using modern dee
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-repo/fin556trading.git
+    git clone https://github.com/atharvanaik10/FIN-556-Final/blob/main/fin556trading.ipynb
     cd fin556trading
     ```
 
@@ -117,17 +117,11 @@ Modify the ticker, start date, and end date in the `download_data` function to f
 
 Train the model to predict mid-price changes:
 
-```bash
-python train_transformer.py
-```
 
 ### Reinforcement Learning
 
 Train the RL agent:
 
-```bash
-python train_policy.py
-```
 
 ## Results
 
