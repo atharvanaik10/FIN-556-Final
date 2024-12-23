@@ -1,4 +1,3 @@
-<img width="773" alt="image" src="https://github.com/user-attachments/assets/9fc41c8d-df36-4f84-b712-9ee68c2d29af" />
 # Introduction
 
 The objective of this report is to evaluate the performance of a trading strategy implemented using the Strategy Studio platform. This strategy employs two core technical indicators, **VWAP (Volume Weighted Average Price)** and **Bollinger Bands**, to make automated trading decisions. The strategy buys or sells based on the price's position relative to these indicators, aiming to capture profitable opportunities when markets are volatile. The strategy is fully automated and tracks real-time price and volume data to make decisions.
@@ -59,19 +58,20 @@ Key metrics for evaluating the strategy include:
 ### Cumulative Profit and Loss (PnL)
 Tracks the overall profitability of the strategy over time.
 
-![Cumulative PnL over Time](attachment:<img width="773" alt="image" src="https://github.com/user-attachments/assets/2b5355e6-b6cb-4429-8966-6ebf7dea22f9" />
-)
+![Cumulative PnL over Time]attachment:<img width="773" alt="image" src="https://github.com/user-attachments/assets/2b5355e6-b6cb-4429-8966-6ebf7dea22f9" />
 
 
 ### Order Frequency
 Analyzes trading activity across different times of day.
 
-![Order Frequency by Hour of Day](attachment:image2.png)
+![<img width="717" alt="image" src="https://github.com/user-attachments/assets/6195ef91-ab01-484c-af85-a37815bbef7d" />
+
 
 ### Trade Execution Analysis
 Compares trade prices with VWAP and Bollinger Bands to evaluate adherence to trading rules.
 
-![Trade Prices vs. Bollinger Bands](attachment:image3.png)
+![Trade Prices vs. Bollinger Bands]<img width="733" alt="image" src="https://github.com/user-attachments/assets/1a508694-4f8c-45a1-8391-017fe7358450" />
+
 
 ---
 
