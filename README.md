@@ -1,4 +1,4 @@
-
+<img width="773" alt="image" src="https://github.com/user-attachments/assets/9fc41c8d-df36-4f84-b712-9ee68c2d29af" />
 # Introduction
 
 The objective of this report is to evaluate the performance of a trading strategy implemented using the Strategy Studio platform. This strategy employs two core technical indicators, **VWAP (Volume Weighted Average Price)** and **Bollinger Bands**, to make automated trading decisions. The strategy buys or sells based on the price's position relative to these indicators, aiming to capture profitable opportunities when markets are volatile. The strategy is fully automated and tracks real-time price and volume data to make decisions.
@@ -60,6 +60,8 @@ Key metrics for evaluating the strategy include:
 Tracks the overall profitability of the strategy over time.
 
 ![Cumulative PnL over Time](attachment:image1.png)
+<img width="773" alt="image" src="https://github.com/user-attachments/assets/4a1c98fb-a70e-4269-b38c-7decb23758c7" />
+
 
 ### Order Frequency
 Analyzes trading activity across different times of day.
