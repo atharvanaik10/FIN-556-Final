@@ -140,10 +140,4 @@ python train_policy.py
 - Trained over 10,000 episodes with checkpointing.
 - Final portfolio profit trends improve with episodes.
 
-## Future Work
-
-- Integrate more advanced financial features.
-- Experiment with ensemble methods for predictions.
-- Explore alternate RL techniques like PPO or DDPG.
-
 ---
